@@ -14,7 +14,7 @@ apiServer.listen(port, host, () => {
 });
 
 var con = mysql.createConnection({
-    host: "	arrigoni.alessandro.tave.osdb.it",
+    host: "arrigoni.alessandro.tave.osdb.it",
     user: "c168_arrigoni",
     password: "Az-66393",
     database: "c168_arrigoni",
